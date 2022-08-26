@@ -1,0 +1,59 @@
+table, th, td {
+    border: 1px solid green;
+}
+div.container {
+    width:80%;
+    margin:0%;
+    display: inline-block;
+    vertical-align: top;
+}
+table#table1 {
+    text-align:center;
+    vertical-align: top;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+    #background-image:url("image/table_background_X.png");
+	/* background-color: black; */
+}
+tr,td {
+    text-align:left;
+}
+table td {
+    display: table-cell;
+    vertical-align: top;
+}
+table#table2 {
+    text-align:center;
+    vertical-align: top;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+}
+body {
+    /* background-image:url("image/background.png"); */
+	background-image:url("image/WhiteCat.jpg");
+}
+tr.head {
+    background-image: url("image/page_head_background_X.png");
+    height: 50px;
+}
+tr.foot {
+    background-image: url("image/page_foot_background_X.png");
+    height: 50px;
+}
+td.content {
+    background-image: url("image/page_content_background_X.png");
+}
+table.inner_table {
+    background-image: url("image/page_inner_table_background_X.png");
+}
+td.left_link {
+    background-image: url("image/page_left_link_background_X.png");
+}
+h1.subhead {
+    font-size: 25px;
+}
+a.home {
+
+}
