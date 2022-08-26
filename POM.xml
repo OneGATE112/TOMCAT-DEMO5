@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-   <finalName>TomCat_Demo</finalName> 
+   <finalName>TOMCAT-DEMO5</finalName> 
    <!-- <finalName>JenkinsWar</finalName>  -->
    
    <plugins>
